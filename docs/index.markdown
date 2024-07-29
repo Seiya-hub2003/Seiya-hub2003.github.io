@@ -11,4 +11,3 @@ git/github演習
 変更されていますか？
 
 [git-memo](/docs/git-memo)
-[git.html](/docs/git.html)

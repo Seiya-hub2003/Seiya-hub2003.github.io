@@ -7,7 +7,5 @@ title:"software"
 ---
 # ソフトウェア工学
 git/github演習
-ここに書かれたことが本文になります
-変更されていますか？
 
 [git-memo](/docs/git-memo)
